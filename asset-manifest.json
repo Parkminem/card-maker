@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Parkminem/card-maker/static/css/main.7b7f049f.chunk.css",
+    "main.js": "/Parkminem/card-maker/static/js/main.c871dff5.chunk.js",
+    "main.js.map": "/Parkminem/card-maker/static/js/main.c871dff5.chunk.js.map",
+    "runtime-main.js": "/Parkminem/card-maker/static/js/runtime-main.c1910866.js",
+    "runtime-main.js.map": "/Parkminem/card-maker/static/js/runtime-main.c1910866.js.map",
+    "static/js/2.ff4ded3f.chunk.js": "/Parkminem/card-maker/static/js/2.ff4ded3f.chunk.js",
+    "static/js/2.ff4ded3f.chunk.js.map": "/Parkminem/card-maker/static/js/2.ff4ded3f.chunk.js.map",
+    "index.html": "/Parkminem/card-maker/index.html",
+    "precache-manifest.52537c8bdb365894a6305f0dd97eec96.js": "/Parkminem/card-maker/precache-manifest.52537c8bdb365894a6305f0dd97eec96.js",
+    "service-worker.js": "/Parkminem/card-maker/service-worker.js",
+    "static/css/main.7b7f049f.chunk.css.map": "/Parkminem/card-maker/static/css/main.7b7f049f.chunk.css.map",
+    "static/js/2.ff4ded3f.chunk.js.LICENSE.txt": "/Parkminem/card-maker/static/js/2.ff4ded3f.chunk.js.LICENSE.txt",
+    "static/js/main.c871dff5.chunk.js.LICENSE.txt": "/Parkminem/card-maker/static/js/main.c871dff5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1910866.js",
+    "static/js/2.ff4ded3f.chunk.js",
+    "static/css/main.7b7f049f.chunk.css",
+    "static/js/main.c871dff5.chunk.js"
+  ]
+}
